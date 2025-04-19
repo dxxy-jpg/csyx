@@ -1,0 +1,2 @@
+C:\Users\lc\Desktop\Hearth\中控1.08源码\myHelper\obj\Release\myHelper.csproj.AssemblyReference.cache
+C:\Users\lc\Desktop\Hearth\中控1.08源码\myHelper\obj\Release\myHelper.csproj.CoreCompileInputs.cache
